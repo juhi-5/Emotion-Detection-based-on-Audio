@@ -1,0 +1,8 @@
+pandas
+numpy
+os
+seaborn
+matplotlib.pyplot
+librosa
+librosa.display
+IPython.display
